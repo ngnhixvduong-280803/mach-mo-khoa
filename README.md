@@ -38,10 +38,19 @@ mach-mo-khoa/
 │       ├── machkenhluibuoc.pdf
 │       └── PCB1.pdf
 │
+├── video/                                    # Video demo vận hành thực tế
+│   └── demo-mach-mo-khoa.mp4
+│
 ├── sơ đồ khối của dự án mạch mã khóa.drawio  # Sơ đồ khối hệ thống (draw.io)
 ├── .gitignore
 └── README.md
 ```
+
+---
+
+## 🎥 Video Demo
+
+- ▶️ [Xem video demo mạch mã khóa thực tế](video/demo-mach-mo-khoa.mp4)
 
 ---
 
@@ -63,10 +72,8 @@ Tất cả các file `.pdf` trong thư mục `machpcb/` và `Du an ky thuat/` c�
 
 ## 👩‍💻 Tác giả
 
-**Phạm Thị Ngọc Nhi(Ngnhi)**
-
-**Nguyễn Văn Đường(Sugar)**
+**Ngọc Nhi**
 
 ---
 
-*05/2025*
+*2026*
