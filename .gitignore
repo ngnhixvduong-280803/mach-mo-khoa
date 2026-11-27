@@ -1,0 +1,38 @@
+# =============================================
+# CHỈ CHIA SẺ FILE EXPORT — ẨN FILE NGUỒN
+# =============================================
+
+# --- Altium Designer source & library files ---
+*.PcbDoc
+*.SchDoc
+*.PrjPcb
+*.PrjPcbStructure
+*.OutJob
+*.IntLib
+*.SchLib
+*.PcbLib
+*.Annotation
+*.~(*).PcbDoc
+
+# --- Proteus source files ---
+*.pdsprj
+*.pdsprj.*.workspace
+
+# --- Backup, logs & history folders ---
+History/
+Project Backups/
+Project Logs for */
+__Previews/
+
+# --- Design Rule Check (nội bộ) ---
+*.drc
+*.html
+
+# --- Workspace/IDE artifacts ---
+*.workspace
+*.bak
+
+# --- OS files ---
+Thumbs.db
+.DS_Store
+desktop.ini
