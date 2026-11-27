@@ -32,8 +32,11 @@ mach-mo-khoa/
 │   ├── mach4/
 │   │   ├── mach4.pdf
 │   │   └── mach4in.pdf
-│   └── machledhienthi/
-│       └── machledhienthi.pdf
+│   ├── machledhienthi/
+│   │   └── machledhienthi.pdf
+│   └── machphu/
+│       ├── machkenhluibuoc.pdf
+│       └── PCB1.pdf
 │
 ├── sơ đồ khối của dự án mạch mã khóa.drawio  # Sơ đồ khối hệ thống (draw.io)
 ├── .gitignore
